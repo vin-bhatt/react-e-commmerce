@@ -11,7 +11,7 @@ import {
 
 function Routes() {
   return (
-      <Router>
+      <Router basename={'/react-e-commmerce'}>
           <Switch>
             <Route exact path="/">
               <Dashboard>
