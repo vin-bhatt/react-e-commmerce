@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-e-commmerce/static/css/main.f43f86bf.chunk.css",
+    "main.js": "/react-e-commmerce/static/js/main.8135ca86.chunk.js",
+    "main.js.map": "/react-e-commmerce/static/js/main.8135ca86.chunk.js.map",
+    "runtime-main.js": "/react-e-commmerce/static/js/runtime-main.c4f9886e.js",
+    "runtime-main.js.map": "/react-e-commmerce/static/js/runtime-main.c4f9886e.js.map",
+    "static/js/2.e5794275.chunk.js": "/react-e-commmerce/static/js/2.e5794275.chunk.js",
+    "static/js/2.e5794275.chunk.js.map": "/react-e-commmerce/static/js/2.e5794275.chunk.js.map",
+    "static/js/3.004d5826.chunk.js": "/react-e-commmerce/static/js/3.004d5826.chunk.js",
+    "static/js/3.004d5826.chunk.js.map": "/react-e-commmerce/static/js/3.004d5826.chunk.js.map",
+    "index.html": "/react-e-commmerce/index.html",
+    "static/css/main.f43f86bf.chunk.css.map": "/react-e-commmerce/static/css/main.f43f86bf.chunk.css.map",
+    "static/js/2.e5794275.chunk.js.LICENSE.txt": "/react-e-commmerce/static/js/2.e5794275.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4f9886e.js",
+    "static/js/2.e5794275.chunk.js",
+    "static/css/main.f43f86bf.chunk.css",
+    "static/js/main.8135ca86.chunk.js"
+  ]
+}
