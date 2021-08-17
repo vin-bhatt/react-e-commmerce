@@ -19,7 +19,7 @@ export const MainListItems = () => {
         <ListItemIcon>
           <Home />
         </ListItemIcon>
-        <ListItemText primary="Dashboard" />
+        <ListItemText primary="Home" />
       </ListItem>
       <ListItem  ListItem button onClick={()=>handleNavigationClick('cart')}>
         <ListItemIcon>

@@ -38,6 +38,8 @@ const useStyles = makeStyles({
     marginRight: '5px'
   },
   image: {
+    width: '50px',
+    height: '50px',
     maxWidth: '50px',
     maxHeight: '50px'
   },
@@ -138,7 +140,7 @@ const Home = () => {
                     >
                       {product["title"]}
                     </Typography>
-                    {fields?.map((field) => {
+                    {fields?.map((field) => { 
                       if(field.field === "image"){
                         return (
                           <div className={classes.productField}>
